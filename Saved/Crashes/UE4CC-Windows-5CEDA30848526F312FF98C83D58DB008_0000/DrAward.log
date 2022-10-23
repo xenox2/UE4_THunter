@@ -1,0 +1,1062 @@
+﻿Log file open, 08/23/22 17:23:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DrAward
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1112762843) SRandInit(1112762844).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272803
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: G:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.08.23-08.23.03:833][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.23-08.23.03:833][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.23-08.23.03:842][  0]LogInit: Computer: DESKTOP-5B44SB1
+[2022.08.23-08.23.03:842][  0]LogInit: User: Q51js
+[2022.08.23-08.23.03:842][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.08.23-08.23.03:842][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.23-08.23.03:842][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.23-08.23.03:842][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.23-08.23.03:842][  0]LogMemory: Process Physical Memory: 281.11 MB used, 281.11 MB peak
+[2022.08.23-08.23.03:842][  0]LogMemory: Process Virtual Memory: 281.26 MB used, 281.26 MB peak
+[2022.08.23-08.23.03:842][  0]LogMemory: Physical Memory: 9314.86 MB used,  7010.73 MB free, 16325.60 MB total
+[2022.08.23-08.23.03:842][  0]LogMemory: Virtual Memory: 4807.83 MB used,  7010.73 MB free, 134217728.00 MB total
+[2022.08.23-08.23.03:917][  0]LogInit: Using OS detected language (ja-JP).
+[2022.08.23-08.23.03:917][  0]LogInit: Using OS detected locale (ja-JP).
+[2022.08.23-08.23.03:919][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2022.08.23-08.23.04:224][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.23-08.23.04:291][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.08.23-08.23.04:291][  0]LogD3D11RHI:       5968/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.08.23-08.23.04:293][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.23-08.23.04:293][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.23-08.23.04:293][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.08.23-08.23.04:299][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.23-08.23.04:299][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.23-08.23.04:299][  0]LogWindows: EnumDisplayDevices:
+[2022.08.23-08.23.04:299][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2022.08.23-08.23.04:299][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.08.23-08.23.04:299][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.08.23-08.23.04:299][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.08.23-08.23.04:299][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.08.23-08.23.04:299][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.08.23-08.23.04:299][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.08.23-08.23.04:299][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.08.23-08.23.04:299][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2022.08.23-08.23.04:336][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.23-08.23.04:348][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.08.23-08.23.04:349][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Intermediate/Shaders/WorkingDirectory/13916/).
+[2022.08.23-08.23.04:349][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Q51js/AppData/Local/Temp/UnrealShaderWorkingDir/BD73FFFC49532E729CA2D6951FFED784/'.
+[2022.08.23-08.23.04:349][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.23-08.23.04:962][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.08.23-08.23.04:989][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.08.23-08.23.05:014][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.08.23-08.23.05:040][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.08.23-08.23.05:065][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.08.23-08.23.05:091][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.08.23-08.23.05:116][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.08.23-08.23.05:143][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.08.23-08.23.05:166][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.08.23-08.23.05:193][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.08.23-08.23.05:218][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2022.08.23-08.23.05:243][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2022.08.23-08.23.05:267][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2022.08.23-08.23.05:292][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2022.08.23-08.23.05:316][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2022.08.23-08.23.05:366][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2022.08.23-08.23.05:366][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2022.08.23-08.23.05:383][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.08.23-08.23.05:439][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.08.23-08.23.05:454][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.08.23-08.23.05:478][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.08.23-08.23.05:503][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.08.23-08.23.05:528][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.08.23-08.23.05:552][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.08.23-08.23.05:552][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.23-08.23.05:775][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.23-08.23.05:833][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/Q51js/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2022.08.23-08.23.05:833][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Q51js/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2022.08.23-08.23.05:833][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.23-08.23.05:833][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.23-08.23.05:833][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.23-08.23.05:833][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.08.23-08.23.05:844][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.08.23-08.23.05:856][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Q51js/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.23-08.23.05:863][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.08.23-08.23.05:863][  0]LogSlate: Using Freetype 2.6.0
+[2022.08.23-08.23.05:864][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.23-08.23.05:864][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.23-08.23.06:042][  0]LogAssetRegistry: FAssetRegistry took 0.0240 seconds to start up
+[2022.08.23-08.23.06:113][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.23-08.23.06:199][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2022.08.23-08.23.06:351][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.08.23-08.23.06:368][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.08.23-08.23.06:368][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.23-08.23.06:368][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.08.23-08.23.06:368][  0]LogMeshReduction: No automatic mesh merging module available
+[2022.08.23-08.23.06:368][  0]LogMeshMerging: No automatic mesh merging module available
+[2022.08.23-08.23.06:599][  0]LogNetVersion: DrAward , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 550400037)
+[2022.08.23-08.23.06:732][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.035760 seconds
+[2022.08.23-08.23.06:736][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2022.08.23-08.23.06:736][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2022.08.23-08.23.06:736][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.23-08.23.06:765][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2022.08.23-08.23.08:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.23-08.23.08:276][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.23-08.23.08:602][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2022.08.23-08.23.08:803][  0]SourceControl: ソースコントロールは無効です
+[2022.08.23-08.23.08:803][  0]SourceControl: ソースコントロールは無効です
+[2022.08.23-08.23.08:825][  0]SourceControl: ソースコントロールは無効です
+[2022.08.23-08.23.08:846][  0]SourceControl: ソースコントロールは無効です
+[2022.08.23-08.23.09:105][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.23-08.23.09:215][  0]LogOcInput: OculusInput pre-init called
+[2022.08.23-08.23.09:345][  0]LogEngine: Initializing Engine...
+[2022.08.23-08.23.09:346][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.23-08.23.09:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.08.23-08.23.09:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.08.23-08.23.09:549][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.23-08.23.09:574][  0]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-08.23.09:590][  0]LogInit: FAudioDevice initialized.
+[2022.08.23-08.23.09:632][  0]LogDerivedDataCache: Saved boot cache 0.04s 93MB C:/Users/Q51js/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2022.08.23-08.23.09:639][  0]LogInit: Texture streaming: Enabled
+[2022.08.23-08.23.09:690][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.23-08.23.09:790][  0]LogInit: Transaction tracking system initialized
+[2022.08.23-08.23.09:924][  0]BlueprintLog: New page: エディタの読み込み
+[2022.08.23-08.23.10:313][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2022.08.23-08.23.10:619][  0]LogConsoleResponse: Display: 
+[2022.08.23-08.23.10:738][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.08.23-08.23.10:738][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.23-08.23.10:738][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.08.23-08.23.10:741][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/' took 0.01s
+[2022.08.23-08.23.11:206][  0]SourceControl: ソースコントロールは無効です
+[2022.08.23-08.23.11:206][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.23-08.23.11:206][  0]LightingResults: New page: ライティングのビルド
+[2022.08.23-08.23.11:225][  0]MapCheck: New page: マップをチェック
+[2022.08.23-08.23.11:225][  0]LightingResults: New page: <何も選択されていません>
+[2022.08.23-08.23.11:359][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.08.23-08.23.11:363][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.23-08.23.11:376][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.23-08.23.11:399][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 23.525ミリ秒かかりました。
+[2022.08.23-08.23.11:399][  0]LogFileHelpers: Loading map 'Template_Default' took 0.193
+[2022.08.23-08.23.11:540][  0]LogCollectionManager: Loaded 0 collections in 0.000964 seconds
+[2022.08.23-08.23.11:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Collections/' took 0.01s
+[2022.08.23-08.23.11:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Developers/Q51js/Collections/' took 0.01s
+[2022.08.23-08.23.11:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Collections/' took 0.01s
+[2022.08.23-08.23.11:595][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2022.08.23-08.23.11:602][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2386 classes and 500 folders.
+[2022.08.23-08.23.11:631][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.08.23-08.23.11:929][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.08.23-08.23.11:950][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2022.08.23-08.23.11:973][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.23-08.23.11:976][  0]LogSlate: Took 0.002707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.23-08.23.11:977][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.23-08.23.11:984][  0]LogSlate: Took 0.004090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.23-08.23.12:082][  0]LogRenderer: Reallocating scene render targets to support 1232x568 Format 10 NumSamples 1 (Frame:1).
+[2022.08.23-08.23.12:177][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2022.08.23-08.23.12:177][  0]LogLoad: (Engine Initialization) Total time: 9.55 seconds
+[2022.08.23-08.23.12:177][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.23-08.23.12:177][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2022.08.23-08.23.12:201][  0]LogAssetRegistry: Asset discovery search completed in 6.1799 seconds
+[2022.08.23-08.23.12:202][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.08.23-08.23.12:202][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2022.08.23-08.23.12:204][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.23-08.23.12:249][  0]LogSlate: Took 0.003279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2022.08.23-08.23.13:193][112]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2022.08.23-08.26.29:433][738]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.26.31:585][990]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2022.08.23-08.26.31:612][990]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2022.08.23-08.26.31:613][990]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.26.31:659][990]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.26.31:667][990]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.26.31:696][990]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.08.23-08.26.31:708][990]LogSlate: Took 0.003558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.23-08.26.31:957][998]LogSlate: Took 0.003481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.23-08.26.32:131][ 16]MaterialEditorStats: Base pass shader without light map: 30 instructions
+[2022.08.23-08.26.32:131][ 16]MaterialEditorStats: Vertex shader: 124 instructions
+[2022.08.23-08.26.32:131][ 16]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.23-08.26.32:131][ 16]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.23-08.27.18:429][996]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.27.18:537][997]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2022.08.23-08.27.19:128][ 67]MaterialEditorStats: Base pass shader without light map: 30 instructions
+[2022.08.23-08.27.19:128][ 67]MaterialEditorStats: Vertex shader: 124 instructions
+[2022.08.23-08.27.19:128][ 67]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.23-08.27.19:128][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.23-08.28.20:922][889]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.28.20:927][889]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2022.08.23-08.28.21:601][967]MaterialEditorStats: Base pass shader without light map: 25 instructions
+[2022.08.23-08.28.21:601][967]MaterialEditorStats: Vertex shader: 122 instructions
+[2022.08.23-08.28.21:601][967]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.23-08.28.26:313][532]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.28.26:741][583]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2022.08.23-08.28.26:741][583]MaterialEditorStats: Vertex shader: 124 instructions
+[2022.08.23-08.28.26:741][583]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.23-08.28.26:741][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.23-08.28.28:918][844]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.28.29:346][895]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2022.08.23-08.28.29:346][895]MaterialEditorStats: Vertex shader: 124 instructions
+[2022.08.23-08.28.29:346][895]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.23-08.28.29:346][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.23-08.28.53:812][677]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2022.08.23-08.30.14:200][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Ember" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Ember.uasset" SILENT=true
+[2022.08.23-08.30.14:210][863]LogSavePackage: Save=9.09ms
+[2022.08.23-08.30.14:210][863]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/M_Ember9648AF4547763675918700819099A47F.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Ember.uasset'
+[2022.08.23-08.30.14:211][863]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Ember.uasset
+[2022.08.23-08.30.14:219][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset" SILENT=true
+[2022.08.23-08.30.14:231][863]LogSavePackage: Save=7.60ms
+[2022.08.23-08.30.14:231][863]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_FireB938E2814503BAF9E55A4E96C99E3A5D.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset'
+[2022.08.23-08.30.14:232][863]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset
+[2022.08.23-08.31.14:159][594]LogMaterialEditor: Applying material M_Ember
+[2022.08.23-08.31.14:478][594]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.31.14:510][594]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.31.14:532][594]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.31.14:564][594]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ember, compiling. 
+[2022.08.23-08.31.15:081][594]TextureStreamingBuild: Display: Compiling optional shaders took 0.521 seconds.
+[2022.08.23-08.31.16:321][741]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2022.08.23-08.31.16:321][741]MaterialEditorStats: Vertex shader: 124 instructions
+[2022.08.23-08.31.16:321][741]MaterialEditorStats: Texture samplers: 7/16
+[2022.08.23-08.31.16:321][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.23-08.34.02:757][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.013
+[2022.08.23-08.34.02:758][925]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_Ember] ([1] browsable assets)...
+[2022.08.23-08.34.02:770][925]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_Ember.M_Ember]
+[2022.08.23-08.34.02:770][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_Ember]
+[2022.08.23-08.34.02:770][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Ember" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/Material/M_Ember_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.08.23-08.34.02:783][925]LogSavePackage: Save=9.62ms
+[2022.08.23-08.34.02:783][925]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/M_Ember_Auto1D4693C2C4B2AB66983CD2D858129D6DE.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/Material/M_Ember_Auto1.uasset'
+[2022.08.23-08.34.02:783][925]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/Material/M_Ember_Auto1.uasset
+[2022.08.23-08.34.02:784][925]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FX/P_Fire] ([1] browsable assets)...
+[2022.08.23-08.34.02:788][925]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/FX/P_Fire.P_Fire]
+[2022.08.23-08.34.02:788][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/FX/P_Fire]
+[2022.08.23-08.34.02:788][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/FX/P_Fire_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.08.23-08.34.02:801][925]LogSavePackage: Save=9.61ms
+[2022.08.23-08.34.02:801][925]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_Fire_Auto164CF7E7E428BFED8708583981C6A5B49.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/FX/P_Fire_Auto1.uasset'
+[2022.08.23-08.34.02:802][925]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/FX/P_Fire_Auto1.uasset
+[2022.08.23-08.34.02:802][925]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.08.23-08.44.04:489][989]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.011
+[2022.08.23-08.44.04:490][989]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FX/P_Fire] ([1] browsable assets)...
+[2022.08.23-08.44.04:494][989]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/FX/P_Fire.P_Fire]
+[2022.08.23-08.44.04:494][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/FX/P_Fire]
+[2022.08.23-08.44.04:494][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/FX/P_Fire_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.08.23-08.44.04:509][989]LogSavePackage: Save=10.89ms
+[2022.08.23-08.44.04:509][989]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_Fire_Auto2D90A4CC24230AD69530D269688668304.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/FX/P_Fire_Auto2.uasset'
+[2022.08.23-08.44.04:510][989]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/FX/P_Fire_Auto2.uasset
+[2022.08.23-08.44.04:510][989]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.08.23-08.47.20:276][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Ember" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Ember.uasset" SILENT=true
+[2022.08.23-08.47.20:282][218]LogSavePackage: Save=2.82ms
+[2022.08.23-08.47.20:282][218]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/M_Ember4D2D368740E9C918DA18C7A3B05A5F3A.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Ember.uasset'
+[2022.08.23-08.47.20:284][218]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Ember.uasset
+[2022.08.23-08.47.20:291][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset" SILENT=true
+[2022.08.23-08.47.20:305][218]LogSavePackage: Save=10.39ms
+[2022.08.23-08.47.20:305][218]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_FireB47652E7448D5E83B21F9F98D5EA34B1.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset'
+[2022.08.23-08.47.20:306][218]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset
+[2022.08.23-08.48.13:677][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Cloud" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Cloud.uasset" SILENT=true
+[2022.08.23-08.48.13:688][ 67]LogSavePackage: Save=10.46ms
+[2022.08.23-08.48.13:689][ 67]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/M_Cloud3DDD7C7E472D5C9A1E7EBB8BCA8F4152.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Cloud.uasset'
+[2022.08.23-08.48.13:690][ 67]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/M_Cloud.uasset
+[2022.08.23-08.48.13:777][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset" SILENT=true
+[2022.08.23-08.48.13:795][ 67]LogSavePackage: Save=14.14ms
+[2022.08.23-08.48.13:795][ 67]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_Fire5EFD35004BB53F7C9070CC808142923E.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset'
+[2022.08.23-08.48.13:796][ 67]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset
+[2022.08.23-08.48.52:511][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset" SILENT=true
+[2022.08.23-08.48.52:528][748]LogSavePackage: Save=14.21ms
+[2022.08.23-08.48.52:528][748]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_FireDFD4E8F54BC1BC8BC338A39222F757C0.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset'
+[2022.08.23-08.48.52:530][748]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset
+[2022.08.23-08.51.25:190][349]LogEditorTransaction: Undo Set Class
+[2022.08.23-08.51.25:197][349]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.51.25:904][430]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2022.08.23-08.51.25:904][430]MaterialEditorStats: Vertex shader: 124 instructions
+[2022.08.23-08.51.25:904][430]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.23-08.51.25:904][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.23-08.52.43:320][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset" SILENT=true
+[2022.08.23-08.52.43:338][854]LogSavePackage: Save=14.11ms
+[2022.08.23-08.52.43:338][854]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_Fire8F29806F4C520F459F0C35B748C75FDB.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset'
+[2022.08.23-08.52.43:339][854]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset
+[2022.08.23-08.53.19:764][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset" SILENT=true
+[2022.08.23-08.53.19:782][180]LogSavePackage: Save=14.33ms
+[2022.08.23-08.53.19:782][180]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_FireB5A0B3F243B92350FAD8DE9B40509B54.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset'
+[2022.08.23-08.53.19:784][180]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset
+[2022.08.23-08.54.01:453][214]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2022.08.23-08.54.14:810][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/P_Fire" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset" SILENT=true
+[2022.08.23-08.54.14:816][148]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2022.08.23-08.54.14:872][148]LogSavePackage: Save=58.45ms
+[2022.08.23-08.54.14:872][148]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/P_Fire458D02EF464A69DF1A7CF9AAE47AE9B6.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset'
+[2022.08.23-08.54.14:873][148]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/FX/P_Fire.uasset
+[2022.08.23-08.54.31:051][763]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2022.08.23-08.54.31:469][763]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.23-08.55.02:878][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Torch" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset" SILENT=true
+[2022.08.23-08.55.02:895][278]LogSavePackage: Save=14.05ms
+[2022.08.23-08.55.02:895][278]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_TorchF276A4154AF2315EDF0EA9AA854E4DF4.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset'
+[2022.08.23-08.55.02:897][278]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset
+[2022.08.23-08.55.03:899][395]LogRenderer: Reallocating scene render targets to support 1232x704 Format 10 NumSamples 1 (Frame:1).
+[2022.08.23-08.56.35:399][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Torch" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset" SILENT=true
+[2022.08.23-08.56.35:416][955]LogSavePackage: Save=13.44ms
+[2022.08.23-08.56.35:416][955]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_Torch311A3BFF4AD60F5D67131B87CDB48F9A.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset'
+[2022.08.23-08.56.35:417][955]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset
+[2022.08.23-08.56.59:955][399]BlueprintLog: New page: BP_Torch をコンパイル
+[2022.08.23-08.57.08:061][335]LogAIModule: Creating AISystem for world Main
+[2022.08.23-08.57.08:085][335]Cmd: MAP LOAD FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.23-08.57.08:086][335]LightingResults: New page: ライティングのビルド
+[2022.08.23-08.57.08:086][335]LoadErrors: New page: マップをロード中: Main.umap
+[2022.08.23-08.57.08:087][335]MapCheck: New page: マップをチェック
+[2022.08.23-08.57.08:087][335]LightingResults: New page: <何も選択されていません>
+[2022.08.23-08.57.08:114][335]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.23-08.57.08:148][335]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.23-08.57.08:178][335]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 30.44ミリ秒かかりました。
+[2022.08.23-08.57.08:178][335]LogFileHelpers: Loading map 'Main' took 0.094
+[2022.08.23-08.57.41:518][322]Cmd: TRANSACTION UNDO
+[2022.08.23-08.57.41:518][322]LogEditorTransaction: Undo アクタ を移動
+[2022.08.23-08.57.41:521][322]LogMaterial: Missing cached shader map for material M_Ember, compiling. 
+[2022.08.23-08.57.42:229][399]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2022.08.23-08.57.42:229][399]MaterialEditorStats: Vertex shader: 124 instructions
+[2022.08.23-08.57.42:229][399]MaterialEditorStats: Texture samplers: 3/16
+[2022.08.23-08.57.42:229][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.23-08.57.43:061][498]Cmd: MODE GRID=1
+[2022.08.23-08.57.47:515][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box2)
+[2022.08.23-08.57.48:927][194]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch)
+[2022.08.23-08.58.02:470][815]Cmd: MODE GRID=0
+[2022.08.23-09.00.06:167][678]BlueprintLog: New page: BP_Torch をコンパイル
+[2022.08.23-09.00.06:920][736]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.00.06:941][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.06:941][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.00.06:941][736]PIE: New page: PIEセッション: Main (2022/08/24 3:00:06)
+[2022.08.23-09.00.06:941][736]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.00.06:945][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004148s)
+[2022.08.23-09.00.06:945][736]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.00.06:945][736]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2022.08.23-09.00.06:946][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004981s)
+[2022.08.23-09.00.06:985][736]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.00.06:990][736]LogInit: FAudioDevice initialized.
+[2022.08.23-09.00.07:146][736]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.00.07:148][736]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.00.07
+[2022.08.23-09.00.07:149][736]LogWorld: Bringing up level for play took: 0.002092
+[2022.08.23-09.00.07:170][736]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2022.08.23-09.00.07:174][736]PIE: /Game/Map/UEDPIE_0_Main -0.446のプレイ イン エディタの開始時間
+[2022.08.23-09.00.07:174][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.07:213][736]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2022.08.23-09.00.11:339][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.11:387][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.19:495][187]BlueprintLog: New page: BP_Torch をコンパイル
+[2022.08.23-09.00.20:964][332]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.00.20:974][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.20:974][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.00.20:974][332]PIE: New page: PIEセッション: Main (2022/08/24 3:00:20)
+[2022.08.23-09.00.20:974][332]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.00.20:978][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004226s)
+[2022.08.23-09.00.20:979][332]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.00.20:979][332]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2022.08.23-09.00.20:979][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004960s)
+[2022.08.23-09.00.21:019][332]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.00.21:023][332]LogInit: FAudioDevice initialized.
+[2022.08.23-09.00.21:061][332]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.00.21:064][332]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.00.21
+[2022.08.23-09.00.21:064][332]LogWorld: Bringing up level for play took: 0.002147
+[2022.08.23-09.00.21:067][332]PIE: /Game/Map/UEDPIE_0_Main -0.553のプレイ イン エディタの開始時間
+[2022.08.23-09.00.21:067][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.24:254][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.24:301][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.29:012][263]BlueprintLog: New page: BP_Torch をコンパイル
+[2022.08.23-09.00.29:971][347]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.00.29:981][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.29:981][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.00.29:981][347]PIE: New page: PIEセッション: Main (2022/08/24 3:00:29)
+[2022.08.23-09.00.29:982][347]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.00.29:985][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003816s)
+[2022.08.23-09.00.29:986][347]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.00.29:986][347]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2022.08.23-09.00.29:986][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004530s)
+[2022.08.23-09.00.30:024][347]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.00.30:029][347]LogInit: FAudioDevice initialized.
+[2022.08.23-09.00.30:068][347]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.00.30:071][347]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.00.30
+[2022.08.23-09.00.30:071][347]LogWorld: Bringing up level for play took: 0.002115
+[2022.08.23-09.00.30:074][347]PIE: /Game/Map/UEDPIE_0_Main 0.454のプレイ イン エディタの開始時間
+[2022.08.23-09.00.30:074][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.32:646][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.00.32:690][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.01.20:420][588]BlueprintLog: New page: BP_Torch をコンパイル
+[2022.08.23-09.01.21:810][721]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.01.21:820][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.01.21:820][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.01.21:820][721]PIE: New page: PIEセッション: Main (2022/08/24 3:01:21)
+[2022.08.23-09.01.21:820][721]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.01.21:824][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003789s)
+[2022.08.23-09.01.21:824][721]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.01.21:825][721]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2022.08.23-09.01.21:825][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004461s)
+[2022.08.23-09.01.21:864][721]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.01.21:868][721]LogInit: FAudioDevice initialized.
+[2022.08.23-09.01.21:905][721]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.01.21:908][721]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.01.21
+[2022.08.23-09.01.21:908][721]LogWorld: Bringing up level for play took: 0.002349
+[2022.08.23-09.01.21:911][721]PIE: /Game/Map/UEDPIE_0_Main 0.291のプレイ イン エディタの開始時間
+[2022.08.23-09.01.21:911][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.01.26:900][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.01.26:951][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.01.37:002][509]BlueprintLog: New page: BP_Torch をコンパイル
+[2022.08.23-09.02.37:150][288]BlueprintLog: New page: BP_Torch をコンパイル
+[2022.08.23-09.02.38:527][420]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.02.38:536][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.02.38:536][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.02.38:537][420]PIE: New page: PIEセッション: Main (2022/08/24 3:02:38)
+[2022.08.23-09.02.38:537][420]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.02.38:541][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004352s)
+[2022.08.23-09.02.38:542][420]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.02.38:542][420]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2022.08.23-09.02.38:542][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005083s)
+[2022.08.23-09.02.38:581][420]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.02.38:585][420]LogInit: FAudioDevice initialized.
+[2022.08.23-09.02.38:625][420]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.02.38:628][420]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.02.38
+[2022.08.23-09.02.38:629][420]LogWorld: Bringing up level for play took: 0.002421
+[2022.08.23-09.02.38:632][420]PIE: /Game/Map/UEDPIE_0_Main 1.012のプレイ イン エディタの開始時間
+[2022.08.23-09.02.38:632][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.02.43:370][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.02.43:426][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.03.23:910][317]LogEditorViewport: Clicking on Actor (context menu): BP_Torch_C (BP_Torch)
+[2022.08.23-09.03.50:604][461]Cmd: DUPLICATE
+[2022.08.23-09.03.50:604][461]Cmd: ACTOR DUPLICATE
+[2022.08.23-09.04.05:769][272]Cmd: DUPLICATE
+[2022.08.23-09.04.05:769][272]Cmd: ACTOR DUPLICATE
+[2022.08.23-09.04.19:260][884]LogEditorViewport: Clicking Background
+[2022.08.23-09.04.24:340][492]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch3)
+[2022.08.23-09.04.59:667][722]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch)
+[2022.08.23-09.05.02:867][103]Cmd: DUPLICATE
+[2022.08.23-09.05.02:867][103]Cmd: ACTOR DUPLICATE
+[2022.08.23-09.05.35:613][ 23]Cmd: DUPLICATE
+[2022.08.23-09.05.35:613][ 23]Cmd: ACTOR DUPLICATE
+[2022.08.23-09.06.35:818][234]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch3)
+[2022.08.23-09.06.37:542][438]Cmd: DUPLICATE
+[2022.08.23-09.06.37:542][438]Cmd: ACTOR DUPLICATE
+[2022.08.23-09.06.54:867][511]LogEditorViewport: Clicking Background
+[2022.08.23-09.07.07:606][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch5)
+[2022.08.23-09.07.32:945][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch4)
+[2022.08.23-09.07.40:737][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box4)
+[2022.08.23-09.07.42:470][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane23)
+[2022.08.23-09.07.48:470][921]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.07.48:480][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.07.48:480][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.07.48:480][921]PIE: New page: PIEセッション: Main (2022/08/24 3:07:48)
+[2022.08.23-09.07.48:480][921]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.07.48:486][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005721s)
+[2022.08.23-09.07.48:487][921]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.07.48:487][921]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2022.08.23-09.07.48:487][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.006755s)
+[2022.08.23-09.07.48:540][921]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.07.48:545][921]LogInit: FAudioDevice initialized.
+[2022.08.23-09.07.48:578][921]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.07.48:582][921]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.07.48
+[2022.08.23-09.07.48:582][921]LogWorld: Bringing up level for play took: 0.002827
+[2022.08.23-09.07.48:584][921]PIE: /Game/Map/UEDPIE_0_Main 0.964のプレイ イン エディタの開始時間
+[2022.08.23-09.07.48:585][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.08.26:472][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.08.26:522][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.08.35:302][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.23-09.08.35:420][505]LogSavePackage: Save=94.37ms
+[2022.08.23-09.08.35:420][505]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Main5F2665F640810426E0A8BC948B0B5722.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap'
+[2022.08.23-09.08.35:421][505]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap
+[2022.08.23-09.08.35:437][505]LogFileHelpers: Saving map 'Main' took 0.167
+[2022.08.23-09.08.35:451][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Torch" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset" SILENT=true
+[2022.08.23-09.08.35:469][505]LogSavePackage: Save=14.05ms
+[2022.08.23-09.08.35:469][505]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_Torch285E6DE14064FD70714B1C875A58EA2D.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset'
+[2022.08.23-09.08.35:470][505]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Torch.uasset
+[2022.08.23-09.09.27:939][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.23-09.09.28:054][214]LogSavePackage: Save=93.46ms
+[2022.08.23-09.09.28:054][214]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Main564CFFDA46FF38DE75A0DDBB63D59FCA.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap'
+[2022.08.23-09.09.28:055][214]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap
+[2022.08.23-09.09.28:071][214]LogFileHelpers: Saving map 'Main' took 0.163
+[2022.08.23-09.10.41:842][289]MapCheck: New page: マップをチェック
+[2022.08.23-09.10.41:856][289]Cmd: MAP REBUILD ALLVISIBLE
+[2022.08.23-09.10.41:856][289]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.08.23-09.10.41:933][289]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2022.08.23-09.10.41:938][289]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2022.08.23-09.10.41:944][289]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Roof, compiling. 
+[2022.08.23-09.10.41:948][289]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Cloud, compiling. 
+[2022.08.23-09.10.41:953][289]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ember, compiling. 
+[2022.08.23-09.10.42:353][289]TextureStreamingBuild: Display: Compiling optional shaders took 0.436 seconds.
+[2022.08.23-09.10.42:389][289]LogLevel: Display: Export Material TexCoord Scales took 0.035 seconds.
+[2022.08.23-09.10.42:400][289]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2022.08.23-09.10.42:419][289]LightingResults: New page: ライティングのビルド - 2022/08/24 3:10:42
+[2022.08.23-09.10.42:545][289]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.23-09.10.42:971][289]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.23-09.10.42:980][289]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.23-09.10.43:989][289]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.23-09.10.43:990][289]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13916
+[2022.08.23-09.10.50:518][289]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.23-09.10.50:518][289]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.23-09.10.50:518][289]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.23-09.10.50:518][289]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.23-09.10.50:518][289]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.23-09.10.50:595][289]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.08.23-09.10.50:596][289]MapCheck: New page: Main - 2022/08/24 3:10:50
+[2022.08.23-09.10.50:626][289]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 31.086ミリ秒かかりました。
+[2022.08.23-09.10.50:648][289]LogEditorBuildUtils: Build time 0:08
+[2022.08.23-09.10.52:664][399]Job is a success!
+[2022.08.23-09.10.52:972][400]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2022.08.23-09.10.52:972][400]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2022.08.23-09.10.53:014][400]Lightmass on DESKTOP-5B44SB1: 1.58 sec total, 149 ms importing, 14 ms setup, 361 ms photons, 1.00 sec processing, 0 ms extra exporting [83/83 mappings]. Threads: 6.89 sec total, 3.52 sec processing.
+[2022.08.23-09.10.53:022][400]LogStaticLightingSystem: Illumination: 10.5 sec (233 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.08.23-09.10.53:022][400]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.08.23-09.10.53:022][400]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.08.23-09.10.53:525][400]DumpUnbuiltLightIteractions
+[2022.08.23-09.10.53:525][400]Lights with unbuilt interactions: 0
+[2022.08.23-09.10.53:525][400]
+[2022.08.23-09.10.53:525][400]Primitives with unbuilt interactions: 0
+[2022.08.23-09.10.53:533][401]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.23-09.10.53:533][401]MapCheck: New page: Main - 2022/08/24 3:10:53
+[2022.08.23-09.10.53:565][401]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 31.22ミリ秒かかりました。
+[2022.08.23-09.10.57:729][899]LogEditorViewport: Clicking Background
+[2022.08.23-09.10.58:620][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box8)
+[2022.08.23-09.10.59:405][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane23)
+[2022.08.23-09.11.00:409][210]LogEditorViewport: Clicking Background
+[2022.08.23-09.11.02:469][456]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.11.02:477][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.11.02:477][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.11.02:478][456]PIE: New page: PIEセッション: Main (2022/08/24 3:11:02)
+[2022.08.23-09.11.02:478][456]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.11.02:483][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004842s)
+[2022.08.23-09.11.02:483][456]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.11.02:483][456]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2022.08.23-09.11.02:483][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005690s)
+[2022.08.23-09.11.02:521][456]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.11.02:526][456]LogInit: FAudioDevice initialized.
+[2022.08.23-09.11.02:560][456]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.11.02:562][456]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.11.02
+[2022.08.23-09.11.02:563][456]LogWorld: Bringing up level for play took: 0.002276
+[2022.08.23-09.11.02:564][456]PIE: /Game/Map/UEDPIE_0_Main 0.945のプレイ イン エディタの開始時間
+[2022.08.23-09.11.02:564][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.11.19:791][522]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.11.19:825][522]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.11.27:659][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.23-09.11.27:779][450]LogSavePackage: Save=95.48ms
+[2022.08.23-09.11.27:779][450]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/MainA5989CBB4E100B08547EC786124E43D3.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap'
+[2022.08.23-09.11.27:781][450]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap
+[2022.08.23-09.11.27:796][450]LogFileHelpers: Saving map 'Main' took 0.168
+[2022.08.23-09.11.27:799][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main_BuiltData" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main_BuiltData.uasset" SILENT=true
+[2022.08.23-09.11.27:857][450]LogSavePackage: Save=54.44ms
+[2022.08.23-09.11.27:857][450]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Main_BuiltDataF8D62443459CEB95BBC2D9A86C9DA518.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main_BuiltData.uasset'
+[2022.08.23-09.11.27:859][450]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main_BuiltData.uasset
+[2022.08.23-09.12.16:287][131]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../DrAward_Pack/sozai/Mesh/skeleton.fbx)
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: NodeAttribute, ItemCount : 27
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: Model, ItemCount : 28
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: Geometry, ItemCount : 1
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: Material, ItemCount : 1
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: Texture, ItemCount : 1
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: Pose, ItemCount : 1
+[2022.08.23-09.12.16:301][131]LogFbx: ItemName: Deformer, ItemCount : 27
+[2022.08.23-09.12.16:302][131]LogFbx: ItemName: Video, ItemCount : 1
+[2022.08.23-09.12.16:305][131]LogFbx: Loading FBX Scene from ../../../../DrAward_Pack/sozai/Mesh/skeleton.fbx
+[2022.08.23-09.12.16:327][131]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.23-09.12.31:860][131]LogFbx: Loading FBX Scene from ../../../../DrAward_Pack/sozai/Mesh/skeleton.fbx
+[2022.08.23-09.12.31:872][131]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.23-09.12.31:872][131]LogFbx: =================================================
+[2022.08.23-09.12.31:872][131]LogFbx: Dumping Node START [Skeleton] 
+[2022.08.23-09.12.31:872][131]LogFbx: 	Total Deformer Count 2083641280.
+[2022.08.23-09.12.31:872][131]LogFbx: 		[Node 1]  (Type Skin).
+[2022.08.23-09.12.31:872][131]LogFbx: =================================================
+[2022.08.23-09.12.31:872][131]LogFbx: 	Attribute () Type (4).
+[2022.08.23-09.12.31:873][131]LogFbx: 		[Node Attribute Child 1] Skeleton (Type Mesh).
+[2022.08.23-09.12.31:873][131]LogFbx: Dumping Node END [Skeleton]
+[2022.08.23-09.12.31:873][131]LogFbx: =================================================
+[2022.08.23-09.12.31:873][131]LogFbx: Dumping Node START [Skeleton] 
+[2022.08.23-09.12.31:873][131]LogFbx: 	Total Deformer Count 2083638760.
+[2022.08.23-09.12.31:873][131]LogFbx: 		[Node 1]  (Type Skin).
+[2022.08.23-09.12.31:873][131]LogFbx: =================================================
+[2022.08.23-09.12.31:873][131]LogFbx: 	Attribute () Type (4).
+[2022.08.23-09.12.31:873][131]LogFbx: 		[Node Attribute Child 1] Skeleton (Type Mesh).
+[2022.08.23-09.12.31:873][131]LogFbx: Dumping Node END [Skeleton]
+[2022.08.23-09.12.31:873][131]LogFbx: Valid bind pose for Pose (skinCluster2) - Skeleton
+[2022.08.23-09.12.31:874][131]LogFbx: Triangulating skeletal mesh Skeleton
+[2022.08.23-09.12.31:924][131]LogFbx: Warning: Bones digested - 27  Depth of hierarchy - 9
+[2022.08.23-09.12.31:934][131]LogSkeletalMesh: Section 0: 1136 vertices, 26 active bones
+[2022.08.23-09.12.31:934][131]LogSkeletalMesh: Section 0: Material=0, 772 triangles
+[2022.08.23-09.12.31:935][131]LogLinker: ファイル '/Game/Mesh/skeleton_Skeleton' が見つかりません
+[2022.08.23-09.12.31:935][131]LogLinker: ファイル '/Game/Mesh/skeleton_Skeleton' が見つかりません
+[2022.08.23-09.12.31:937][131]LogLinker: ファイル '/Game/Mesh/skeleton_PhysicsAsset' が見つかりません
+[2022.08.23-09.12.31:937][131]LogLinker: ファイル '/Game/Mesh/skeleton_PhysicsAsset' が見つかりません
+[2022.08.23-09.12.55:472][841]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../DrAward_Pack/sozai/Texture/skeleton/skeleton_bc.png)
+[2022.08.23-09.12.55:498][841]LogTexture: Display: Building textures: skeleton_bc (AutoDXT, 1024X1024)
+[2022.08.23-09.12.55:607][841]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../DrAward_Pack/sozai/Texture/skeleton/skeleton_n.png)
+[2022.08.23-09.12.55:640][841]LogTexture: Display: Building textures: skeleton_n (BC5, 1024X1024)
+[2022.08.23-09.12.55:716][841]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../DrAward_Pack/sozai/Texture/skeleton/skeleton_orm.png)
+[2022.08.23-09.12.55:745][841]LogTexture: Display: Building textures: skeleton_orm (AutoDXT, 1024X1024)
+[2022.08.23-09.13.03:539][226]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2022.08.23-09.13.05:414][441]LogTexture: Display: Building textures: skeleton_orm (AutoDXT, 1024X1024)
+[2022.08.23-09.13.07:101][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/skeleton_orm" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_orm.uasset" SILENT=true
+[2022.08.23-09.13.07:157][632]LogSavePackage: Save=55.68ms
+[2022.08.23-09.13.07:157][632]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/skeleton_ormEDE9C16E459D81687E8E8190F3F10887.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_orm.uasset'
+[2022.08.23-09.13.07:158][632]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_orm.uasset
+[2022.08.23-09.14.08:312][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/MI_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/MI_Skeleton.uasset" SILENT=true
+[2022.08.23-09.14.08:323][421]LogSavePackage: Save=10.17ms
+[2022.08.23-09.14.08:323][421]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/MI_Skeleton940C76DD4A152953398C9C9CB7259BC0.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/MI_Skeleton.uasset'
+[2022.08.23-09.14.08:324][421]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/MI_Skeleton.uasset
+[2022.08.23-09.14.12:168][856]LogRenderer: Reallocating scene render targets to support 1392x916 Format 10 NumSamples 1 (Frame:1).
+[2022.08.23-09.14.32:403][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/MI_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/MI_Skeleton.uasset" SILENT=true
+[2022.08.23-09.14.32:425][260]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Skeleton, compiling. 
+[2022.08.23-09.14.32:806][260]TextureStreamingBuild: Display: Compiling optional shaders took 0.383 seconds.
+[2022.08.23-09.14.32:839][260]LogSavePackage: Save=8.44ms
+[2022.08.23-09.14.32:839][260]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/MI_SkeletonCEC6A52442A7B7E05C17A09FDF1DB1B9.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/MI_Skeleton.uasset'
+[2022.08.23-09.14.32:841][260]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Material/MI_Skeleton.uasset
+[2022.08.23-09.14.58:684][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/skeleton_PhysicsAsset" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton_PhysicsAsset.uasset" SILENT=true
+[2022.08.23-09.14.58:687][443]LogSavePackage: Save=3.22ms
+[2022.08.23-09.14.58:687][443]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/skeleton_PhysicsAsset46EF749F4D0DD6F871A437A979DE11B9.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton_PhysicsAsset.uasset'
+[2022.08.23-09.14.58:688][443]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton_PhysicsAsset.uasset
+[2022.08.23-09.14.58:691][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/skeleton_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton_Skeleton.uasset" SILENT=true
+[2022.08.23-09.14.58:692][443]LogSavePackage: Save=0.92ms
+[2022.08.23-09.14.58:692][443]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/skeleton_Skeleton3A0316DE40A9F184423C3394731F94DC.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton_Skeleton.uasset'
+[2022.08.23-09.14.58:693][443]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton_Skeleton.uasset
+[2022.08.23-09.14.58:703][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton.uasset" SILENT=true
+[2022.08.23-09.14.58:714][443]LogSavePackage: Save=10.07ms
+[2022.08.23-09.14.58:715][443]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/skeleton272BA58E4791F79F426F2F91B1CAE8A6.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton.uasset'
+[2022.08.23-09.14.58:716][443]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton.uasset
+[2022.08.23-09.15.01:118][723]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2022.08.23-09.15.01:218][723]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.23-09.15.01:244][723]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.08.23-09.15.01:478][723]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2022.08.23-09.15.09:400][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton.uasset" SILENT=true
+[2022.08.23-09.15.09:413][643]LogSavePackage: Save=9.98ms
+[2022.08.23-09.15.09:413][643]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/skeleton3A23B9FF4C4516C98EAEB9A6C39EBCFB.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton.uasset'
+[2022.08.23-09.15.09:415][643]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Mesh/skeleton.uasset
+[2022.08.23-09.15.09:423][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/skeleton_bc" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_bc.uasset" SILENT=true
+[2022.08.23-09.15.09:462][643]LogSavePackage: Save=38.09ms
+[2022.08.23-09.15.09:462][643]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/skeleton_bc3042331C480D0B39D0E69C930F425CE3.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_bc.uasset'
+[2022.08.23-09.15.09:463][643]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_bc.uasset
+[2022.08.23-09.15.09:473][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Texture/skeleton_n" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_n.uasset" SILENT=true
+[2022.08.23-09.15.09:512][643]LogSavePackage: Save=38.17ms
+[2022.08.23-09.15.09:512][643]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/skeleton_n45D3FED94E4592C34C8232BCE2490B85.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_n.uasset'
+[2022.08.23-09.15.09:513][643]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Texture/skeleton_n.uasset
+[2022.08.23-09.15.26:184][220]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Award_C /Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.BPAnim_Award_C_1
+	Function /Game/Animation/BPAnim_Award.BPAnim_Award_C:ExecuteUbergraph_BPAnim_Award:0083
+[2022.08.23-09.15.55:740][ 76]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../DrAward_Pack/sozai/Animation/enemy_walk.fbx)
+[2022.08.23-09.15.55:748][ 76]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2022.08.23-09.15.55:748][ 76]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2022.08.23-09.15.55:748][ 76]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2022.08.23-09.15.55:748][ 76]LogFbx: ItemName: NodeAttribute, ItemCount : 51
+[2022.08.23-09.15.55:748][ 76]LogFbx: ItemName: Model, ItemCount : 51
+[2022.08.23-09.15.55:748][ 76]LogFbx: ItemName: AnimationCurveNode, ItemCount : 432
+[2022.08.23-09.15.55:748][ 76]LogFbx: ItemName: AnimationCurve, ItemCount : 309
+[2022.08.23-09.15.55:751][ 76]LogFbx: Loading FBX Scene from ../../../../DrAward_Pack/sozai/Animation/enemy_walk.fbx
+[2022.08.23-09.15.55:779][ 76]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.23-09.16.14:664][ 76]LogFbx: Loading FBX Scene from ../../../../DrAward_Pack/sozai/Animation/enemy_walk.fbx
+[2022.08.23-09.16.14:690][ 76]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(0) Root
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(1) COG
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(2) Spine01
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(3) Spine02
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(4) Neck
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(5) Head
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(6) HeadTop
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(7) L_Shoulder
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(8) L_UpperArm
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(9) L_ForeArm
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(10) L_Hand
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(11) L_HandTop
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(12) R_Shoulder
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(13) R_UpperArm
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(14) R_ForeArm
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(15) R_Hand
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(16) R_HandTop
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(17) L_UpperLeg
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(18) L_Leg
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(19) L_Ankle
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(20) L_Foot
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(21) L_FootTop
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(22) R_UpperLeg
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(23) R_Leg
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(24) R_Ankle
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(25) R_Foot
+[2022.08.23-09.16.14:692][ 76]LogFbx: SortedLinks :(26) R_FootTop
+[2022.08.23-09.16.14:692][ 76]LogFbx: Parsing AnimStack Take 001
+[2022.08.23-09.16.15:120][ 76]LogLinker: ファイル '/Game/Animation/enemy_walk' が見つかりません
+[2022.08.23-09.16.15:120][ 76]LogLinker: ファイル '/Game/Animation/enemy_walk' が見つかりません
+[2022.08.23-09.16.15:259][ 76]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/enemy_walk.enemy_walk
+[2022.08.23-09.16.15:262][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BPAnim_Award_C /Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.BPAnim_Award_C_1
+	Function /Game/Animation/BPAnim_Award.BPAnim_Award_C:ExecuteUbergraph_BPAnim_Award:0083
+[2022.08.23-09.16.47:128][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset" SILENT=true
+[2022.08.23-09.16.47:142][904]LogSavePackage: Save=13.53ms
+[2022.08.23-09.16.47:142][904]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_Skeleton005DEDF943EC2B36E1B4BD9CC7D08DDE.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset'
+[2022.08.23-09.16.47:144][904]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset
+[2022.08.23-09.17.45:167][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_SkeletonContoroller" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonContoroller.uasset" SILENT=true
+[2022.08.23-09.17.45:175][303]LogSavePackage: Save=7.14ms
+[2022.08.23-09.17.45:175][303]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_SkeletonContoroller2E8424D14785B92A558764B8B5B8D566.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonContoroller.uasset'
+[2022.08.23-09.17.45:176][303]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonContoroller.uasset
+[2022.08.23-09.18.05:750][762]LogMetaData: Removing '/Game/BP/BP_SkeletonController.BP_SkeletonController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP/BP_SkeletonContoroller.PackageMetaData'
+[2022.08.23-09.18.05:750][762]LogMetaData: Removing '/Game/BP/BP_SkeletonController.SKEL_BP_SkeletonController_C' ref from Metadata '/Game/BP/BP_SkeletonContoroller.PackageMetaData'
+[2022.08.23-09.18.05:750][762]LogMetaData: Removing '/Game/BP/BP_SkeletonController.BP_SkeletonController_C' ref from Metadata '/Game/BP/BP_SkeletonContoroller.PackageMetaData'
+[2022.08.23-09.18.05:750][762]LogMetaData: Removing '/Game/BP/BP_SkeletonController.BP_SkeletonController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP/BP_SkeletonContoroller.PackageMetaData'
+[2022.08.23-09.18.05:750][762]LogMetaData: Removing '/Game/BP/BP_SkeletonController.BP_SkeletonController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP/BP_SkeletonContoroller.PackageMetaData'
+[2022.08.23-09.18.05:764][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_SkeletonController" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonController.uasset" SILENT=true
+[2022.08.23-09.18.05:772][762]LogSavePackage: Save=6.96ms
+[2022.08.23-09.18.05:772][762]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_SkeletonController38C1A13C49AEE346C1626AA3E5E1ED2F.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonController.uasset'
+[2022.08.23-09.18.05:773][762]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonController.uasset
+[2022.08.23-09.18.27:457][323]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.18.57:475][305]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.19.33:207][986]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.19.46:006][592]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.23-09.20.01:059][263]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.20.17:079][149]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.08.23-09.20.39:692][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/BPAnim_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/BPAnim_Skeleton.uasset" SILENT=true
+[2022.08.23-09.20.39:703][400]LogSavePackage: Save=11.00ms
+[2022.08.23-09.20.39:703][400]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BPAnim_Skeleton49F9356D4038EA0106B892A1BB066003.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/BPAnim_Skeleton.uasset'
+[2022.08.23-09.20.39:704][400]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/BPAnim_Skeleton.uasset
+[2022.08.23-09.20.39:714][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/enemy_walk" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset" SILENT=true
+[2022.08.23-09.20.39:724][400]LogSavePackage: Save=8.76ms
+[2022.08.23-09.20.39:724][400]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/enemy_walk6806B3324A11082FFB16568F3E5A0F62.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset'
+[2022.08.23-09.20.39:725][400]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset
+[2022.08.23-09.20.54:416][704]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2022.08.23-09.20.54:572][704]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2022.08.23-09.20.54:813][704]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.23-09.21.00:868][426]BlueprintLog: New page: BPAnim_Skeleton をコンパイル
+[2022.08.23-09.21.20:110][129]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.23-09.21.28:333][113]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.22.02:981][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2022.08.23-09.22.02:998][  5]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2022.08.23-09.22.03:359][  5]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.23-09.22.18:262][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/enemy_walk" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset" SILENT=true
+[2022.08.23-09.22.18:275][144]LogSavePackage: Save=8.85ms
+[2022.08.23-09.22.18:275][144]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/enemy_walk56D31AB14A733D5D3E1E379BAD69789F.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset'
+[2022.08.23-09.22.18:276][144]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset
+[2022.08.23-09.22.18:286][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset" SILENT=true
+[2022.08.23-09.22.18:310][144]LogSavePackage: Save=19.68ms
+[2022.08.23-09.22.18:310][144]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_Skeleton6267CC154B7701D7A3285A9A14AF16A6.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset'
+[2022.08.23-09.22.18:312][144]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset
+[2022.08.23-09.22.18:323][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/BPAnim_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/BPAnim_Skeleton.uasset" SILENT=true
+[2022.08.23-09.22.18:340][144]LogSavePackage: Save=13.02ms
+[2022.08.23-09.22.18:340][144]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BPAnim_Skeleton5BF3FC7F42ECB0C381C8E4AF272281C4.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/BPAnim_Skeleton.uasset'
+[2022.08.23-09.22.18:342][144]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/BPAnim_Skeleton.uasset
+[2022.08.23-09.22.19:423][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/enemy_walk" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset" SILENT=true
+[2022.08.23-09.22.19:428][272]LogSavePackage: Save=1.85ms
+[2022.08.23-09.22.19:428][272]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/enemy_walkD980E171419F4CB1827217974073C5B9.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset'
+[2022.08.23-09.22.19:429][272]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Animation/enemy_walk.uasset
+[2022.08.23-09.22.32:636][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:385][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:421][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:454][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:488][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:522][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:556][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:771][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:805][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:839][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:873][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:906][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:940][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.34:973][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:007][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:041][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:075][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:109][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:142][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:176][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:210][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:244][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:277][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:311][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:344][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:378][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:412][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:479][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.35:561][841]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.37:111][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:001][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:034][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:067][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:101][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:135][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:168][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:202][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:235][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:269][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:302][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:336][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:370][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:403][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:436][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:470][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:504][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:538][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:571][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:604][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:622][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:656][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:690][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:724][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:757][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:791][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:825][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:858][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:892][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:926][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:960][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.38:994][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:027][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:078][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:111][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:145][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:179][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:213][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:246][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:280][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:314][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:348][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:382][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:415][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:449][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:482][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:516][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:550][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:585][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:618][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:652][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:686][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:720][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:754][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:788][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.39:822][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.42:201][998]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.08.23-09.22.49:276][809]LogCascade: Quitting Cascade. FXSystem=0x0000023A2A7468E0
+[2022.08.23-09.22.54:763][430]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.23-09.24.45:445][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.028
+[2022.08.23-09.24.45:447][  5]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Skeleton] ([1] browsable assets)...
+[2022.08.23-09.24.45:456][  5]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Skeleton.BP_Skeleton]
+[2022.08.23-09.24.45:456][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Skeleton]
+[2022.08.23-09.24.45:456][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/BP/BP_Skeleton_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.08.23-09.24.45:481][  5]LogSavePackage: Save=20.52ms
+[2022.08.23-09.24.45:481][  5]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_Skeleton_Auto3013AC296461BF5419C42F6B5E0AB39F7.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/BP/BP_Skeleton_Auto3.uasset'
+[2022.08.23-09.24.45:482][  5]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Autosaves/Game/BP/BP_Skeleton_Auto3.uasset
+[2022.08.23-09.24.45:482][  5]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.08.23-09.26.35:717][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset" SILENT=true
+[2022.08.23-09.26.35:741][218]LogSavePackage: Save=20.39ms
+[2022.08.23-09.26.35:741][218]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_SkeletonBE3D216A4BA0CBE8EBDF50A9D6B89C29.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset'
+[2022.08.23-09.26.35:742][218]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset
+[2022.08.23-09.26.37:034][373]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.28.17:943][763]BlueprintLog: New page: BP_SkeletonController をコンパイル
+[2022.08.23-09.28.19:176][895]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.28.40:120][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.23-09.28.40:247][365]LogSavePackage: Save=101.67ms
+[2022.08.23-09.28.40:247][365]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/Main45A8DFFF44EB94DBF9AD8EA2FAC56A69.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap'
+[2022.08.23-09.28.40:248][365]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/Map/Main.umap
+[2022.08.23-09.28.40:265][365]LogFileHelpers: Saving map 'Main' took 0.178
+[2022.08.23-09.28.40:276][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Skeleton" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset" SILENT=true
+[2022.08.23-09.28.40:300][365]LogSavePackage: Save=20.23ms
+[2022.08.23-09.28.40:300][365]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_Skeleton3A586D454A6334D81F7D90B021962914.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset'
+[2022.08.23-09.28.40:301][365]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_Skeleton.uasset
+[2022.08.23-09.28.40:304][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_SkeletonController" FILE="C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonController.uasset" SILENT=true
+[2022.08.23-09.28.40:317][365]LogSavePackage: Save=8.85ms
+[2022.08.23-09.28.40:317][365]LogSavePackage: Moving 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Saved/BP_SkeletonControllerD5EC765F4F84477D40F03C9424462F73.tmp' to 'C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonController.uasset'
+[2022.08.23-09.28.40:318][365]LogSavePackage: Display: Finished SavePackage C:/Users/Q51js/OneDrive/ドキュメント/Unreal Projects/DrAward/Content/BP/BP_SkeletonController.uasset
+[2022.08.23-09.28.42:945][679]LogTemp: Repeating last play command: 選択ビューポート
+[2022.08.23-09.28.42:959][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.28.42:959][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.28.42:959][679]PIE: New page: PIEセッション: Main (2022/08/24 3:28:42)
+[2022.08.23-09.28.42:959][679]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.28.42:964][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004315s)
+[2022.08.23-09.28.42:964][679]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.28.42:964][679]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2022.08.23-09.28.42:964][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005019s)
+[2022.08.23-09.28.43:008][679]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.28.43:013][679]LogInit: FAudioDevice initialized.
+[2022.08.23-09.28.43:045][679]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.28.43:047][679]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.28.43
+[2022.08.23-09.28.43:065][679]LogWorld: Bringing up level for play took: 0.020113
+[2022.08.23-09.28.43:067][679]PIE: /Game/Map/UEDPIE_0_Main -0.553のプレイ イン エディタの開始時間
+[2022.08.23-09.28.43:067][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.28.47:425][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.28.47:488][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.29.17:233][900]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.29.34:922][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.29.34:922][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.23-09.29.34:923][344]PIE: New page: SIEセッション: Main (2022/08/24 3:29:34)
+[2022.08.23-09.29.34:923][344]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2022.08.23-09.29.34:927][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004608s)
+[2022.08.23-09.29.34:928][344]LogAIModule: Creating AISystem for world Main
+[2022.08.23-09.29.34:928][344]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2022.08.23-09.29.34:928][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005323s)
+[2022.08.23-09.29.34:969][344]LogInit: XAudio2 using 'ライン (3- Steinberg UR22C)' : 2 channels at 44.1 kHz using 24 bits per sample (channel mask 0x3)
+[2022.08.23-09.29.34:974][344]LogInit: FAudioDevice initialized.
+[2022.08.23-09.29.34:999][344]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2022.08.23-09.29.35:002][344]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.08.23-18.29.35
+[2022.08.23-09.29.35:003][344]LogWorld: Bringing up level for play took: 0.002648
+[2022.08.23-09.29.35:012][344]PIE: /Game/Map/UEDPIE_0_Main -0.608のプレイ イン エディタの開始時間
+[2022.08.23-09.29.35:104][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.29.41:060][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.29.41:120][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2022.08.23-09.29.46:876][726]LogEditorTransaction: Undo Orient Rotation to Movement を編集
+[2022.08.23-09.29.55:639][774]BlueprintLog: New page: BP_Skeleton をコンパイル
+[2022.08.23-09.29.55:661][774]LogWorld: --- Actors Currently in /Engine/Transient.World_15:PersistentLevel ---
+[2022.08.23-09.29.55:661][774]LogWorld:   /Engine/Transient.World_15:PersistentLevel.WorldSettings
+[2022.08.23-09.29.55:661][774]LogWorld:   /Engine/Transient.World_15:PersistentLevel.Brush_15
+[2022.08.23-09.29.55:661][774]LogWorld:   /Engine/Transient.World_15:PersistentLevel.DefaultPhysicsVolume_15
+[2022.08.23-09.29.55:661][774]LogWorld:   /Engine/Transient.World_15:PersistentLevel.ParticleEventManager_15
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   NONE
+[2022.08.23-09.29.55:661][774]LogWorld:   /Engine/Transient.World_15:PersistentLevel.BP_Skeleton_C_0
+[2022.08.23-09.29.55:661][774]LogWorld:   /Engine/Transient.World_15:PersistentLevel.BP_Skeleton_C_6
+[2022.08.23-09.30.21:819][774]LogStats: FPlatformStackWalk::StackWalkAndDump - 26.158 s
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: 
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1487]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_15:PersistentLevel.REINST_BP_Skeleton_C_1 from world (check level is /Engine/Transient.World_15:PersistentLevel)
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: Stack: 
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:200]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:233]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:360]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-Engine.dll!UWorld::RemoveActor() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\engine\private\world.cpp:1487]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-Engine.dll!UWorld::DestroyActor() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\engine\private\levelactor.cpp:651]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-Engine.dll!UWorld::EditorDestroyActor() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\engine\private\levelactor.cpp:500]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!ReplaceActorHelper() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\kismet2\kismetreinstanceutilities.cpp:1797]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!FBlueprintCompileReinstancer::ReplaceInstancesOfClass_Inner() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\kismet2\kismetreinstanceutilities.cpp:1969]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!FBlueprintCompileReinstancer::BatchReplaceInstancesOfClass() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\kismet2\kismetreinstanceutilities.cpp:1474]
+[2022.08.23-09.30.21:819][774]LogOutputDevice: Error: UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushReinstancingQueueImpl() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:963]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:196]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:750]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Kismet.dll!FBlueprintEditor::Compile() [d:\build\++ue4+release-4.17+compile\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3291]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,TTypeWrapper<void> __cdecl(void)>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:434]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:97]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:305]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!TMemberFunctionCaller<SToolBarButtonBlock,FReply (__cdecl SToolBarButtonBlock::*)(void) __ptr64>::operator()<>() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:165]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SToolBarButtonBlock,FReply (__cdecl SToolBarButtonBlock::*)(void) __ptr64> >() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\templates\tuple.h:497]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!TBaseDelegate<FReply>::Execute() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:282]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!<lambda_1002768c627006711ef2f351a87ec0e7>::operator()() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5199]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_1002768c627006711ef2f351a87ec0e7> >() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:232]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5188]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5690]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5670]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:1718]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:2161]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:881]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:721]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: USER32.dll!0x00000000D3E91C4C
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: USER32.dll!0x00000000D3E90EA6
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor-Core.dll!FWindowsPlatformMisc::PumpMessages() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\core\private\windows\windowsplatformmisc.cpp:1009]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3151]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.17+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:210]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: KERNEL32.DLL!0x00000000D3C154E0
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: ntdll.dll!0x00000000D51E485B
+[2022.08.23-09.30.21:820][774]LogOutputDevice: Error: 
+[2022.08.23-09.30.21:830][774]LogStats:                SubmitErrorReport -  0.000 s
